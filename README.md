@@ -22,7 +22,7 @@ Let's get the Vuforia SDK working in a new Unity project. If you already downloa
 ### Step 2 - Add a Vuforia AR Camera to the Scene
 1. In Unity, select GameObject > Vuforia > AR Camera. You will be prompted to install some additional assets, this will happen once per project.
 
-![Vuforia AR Camera](https://github.com/tiago-peres/ar-robot/blob/master/imgs/2.PNG)
+![Vuforia AR Camera](https://github.com/tiago-peres/ar-robot/blob/master/imgs/2.png)
 
 2. Delete the MainCamera object.
 
